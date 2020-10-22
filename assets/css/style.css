@@ -1,0 +1,30 @@
+.badge {
+	margin-right: 3px;
+}
+
+.navbar{
+	background-color:#000080;
+}
+
+
+.nav-link:hover {
+background-color: blue ;
+}
+
+.dropdown-item:hover {
+background-color:blue;
+}
+.logout:hover {
+	background-color: orange;
+}
+.side-nav{
+	height: 100%;
+	/* box-shadow: 2px 2px 2px rgba(0,0,0,0.8); */
+    padding: 10px;
+    border: 1px;
+}
+
+.header-atas {
+	margin-top: 65px;
+}
+/* dibawah cek menu responsif  */
